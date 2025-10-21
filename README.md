@@ -13,7 +13,7 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 
 | Loading & Auto-Scrolling | Liquid Glass Tab Bar |
 |---------------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/e1ec50a4-20ba-4850-950f-798fa806ad3a" width="300" alt="Liquid Glass Tab Bar in Action">
+| <img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action">
 
 ## 🛠 Tech Stack
 
