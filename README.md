@@ -11,7 +11,7 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 
 ## Liquid Glass Tab Bar
 
-<img src="https://github.com/user-attachments/assets/e1ec50a4-20ba-4850-950f-798fa806ad3a" width="400" alt="Liquid Glass Tab Bar in Action">
+<img src="https://github.com/user-attachments/assets/e1ec50a4-20ba-4850-950f-798fa806ad3a" width="300" alt="Liquid Glass Tab Bar in Action">
 
 ## 🛠 Tech Stack
 
