@@ -26,12 +26,6 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 - **API**: Breaking Bad API (quotes & episodes)
 - **UI Enhancement**: Apple's Liquid Glass tab bar
 
-## 🚀 Quick Start
-
-1. Clone the repo: `git clone <your-repo-url>`
-2. Open in Xcode: `open bbquotes.xcodeproj`
-3. Build & Run: Select iOS simulator or device (iOS 26+)
-
 ## 📝 License
 
 MIT License – feel free to fork and build upon it.
