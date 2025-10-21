@@ -22,8 +22,8 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 ## 🚀 Quick Start
 
 1. Clone the repo: `git clone <your-repo-url>`
-2. Open in Xcode: `open BreakingBadQuotes.xcodeproj`
-3. Build & Run: Select iOS simulator or device (iOS 18+)
+2. Open in Xcode: `open bbquotes.xcodeproj`
+3. Build & Run: Select iOS simulator or device (iOS 26+)
 
 ## 📝 License
 
