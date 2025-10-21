@@ -13,7 +13,12 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 
 | Loading & Auto-Scrolling | Liquid Glass Tab Bar |
 |---------------------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action">
+| <img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="300" alt="Loading and Auto-Scrolling Animation"> | <img src="https://github.com/user-attachments/assets/91da19f9-e296-4fb3-9b64-93dfd1ec1f04" width="300" alt="Liquid Glass Tab Bar in Action"> |
+
+| Using the App (Quote Fetch) | Using the App (Episode Fetch) |
+|-----------------------------|-------------------------------|
+| <img src="https://github.com/user-attachments/assets/a57cb0ec-56bb-4a63-aac9-28200fb51c8a" width="300" alt="Fetching a Random Quote"> | <img src="https://github.com/user-attachments/assets/89774dec-d18a-44d8-8f7c-bfba78611a12" width="300" alt="Fetching a Random Episode">
+
 
 ## 🛠 Tech Stack
 
