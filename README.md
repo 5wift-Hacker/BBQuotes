@@ -9,6 +9,10 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 - **Liquid Glass Tab Bar**: Fluid, glassy navigation powered by iOS 26's latest UI innovations.
 - **Polished Design**: Minimalist, immersive visuals for an engaging user experience.
 
+## Loading & Auto-Scrolling
+
+<img src="https://github.com/user-attachments/assets/272926a7-40d9-4704-bf61-71ef91c71057" width="450" alt="Liquid Glass Tab Bar in Action">
+
 ## Liquid Glass Tab Bar
 
 <img src="https://github.com/user-attachments/assets/e1ec50a4-20ba-4850-950f-798fa806ad3a" width="300" alt="Liquid Glass Tab Bar in Action">
