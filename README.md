@@ -5,7 +5,7 @@ A portfolio SwiftUI app showcasing modern iOS development with a Breaking Bad th
 ## ✨ Main Features
 
 - **Random Quotes & Episodes**: Fetch and display content across all three series with intuitive taps.
-- **API Mastery**: Demonstrates efficient data fetching and parsing from the [Breaking Bad API](https://breakingbadapi.com/).
+- **API Mastery**: Demonstrates efficient data fetching and parsing from the [Breaking Bad API](https://badapi-one.vercel.app).
 - **Liquid Glass Tab Bar**: Fluid, glassy navigation powered by iOS 26's latest UI innovations.
 - **Polished Design**: Minimalist, immersive visuals for an engaging user experience.
 
